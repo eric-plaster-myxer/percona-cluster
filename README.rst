@@ -14,7 +14,10 @@ Percona XtraDB Cluster provides:
 * Automatic node provisioning.
 * Data consistency. No more unsynchronized slaves.
 
-Learn more about Procona XtraDB Cluster `here <http://www.percona.com/doc/percona-xtradb-cluster/5.6/>`_.
+Learn more about Procona XtraDB Cluster:
+* `About Percona XtraDB Cluster <http://www.percona.com/doc/percona-xtradb-cluster/5.6/intro.html>`_.  
+* `5.6 Docs <http://www.percona.com/doc/percona-xtradb-cluster/5.6/>`_.  
+
 
 .. note::
 
