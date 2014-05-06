@@ -1,3 +1,4 @@
+===========================
 salt-procona-xtradb-cluster
 ===========================
 
@@ -14,3 +15,25 @@ Percona XtraDB Cluster provides:
 * Data consistency. No more unsynchronized slaves.
 
 Learn more about Procona XtraDB Cluster [here](http://www.percona.com/doc/percona-xtradb-cluster/5.6/).
+
+.. note::
+
+    See the full `Salt Formulas installation and usage instructions
+    <http://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html>`_.
+
+Available states
+================
+
+.. contents::
+    :local:
+
+``procona.client``
+----------------
+
+Install the procona client package.
+
+``procona.server``
+----------------
+
+Install the procona server package and start the service.
+
